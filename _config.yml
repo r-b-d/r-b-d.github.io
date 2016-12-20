@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://r-b-d.github.io
+title: r-b-d
+tagline: Android Ideas
+description: My awesome new site
+paginate: 5
